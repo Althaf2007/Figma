@@ -33,9 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-
-'''
-
+```
 <div class="container--0-">
     <img
       src="sample18.png"
@@ -264,9 +262,7 @@ Figma
     <div class="text-0-1-9">PARTY</div>
     <div class="text-0-1-10">LET’S BEGIN THE</div>
   </div>
-
-'''
-
+```
 ## OUTPUT:
 
 ![alt text](<Screenshot 2024-12-25 160149.png>)
